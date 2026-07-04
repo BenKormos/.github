@@ -1,1 +1,46 @@
-# .github
+# 🏢 Welcome to BenKormos Development
+
+Welcome to the official GitHub Organization for **BenKormos**. This space is dedicated to open-source software development, web applications, hosting architectures, and various software experiments.
+
+## 🚀 About Us
+
+We are focused on building clean, lightweight, and modern digital experiences. From personal landing pages and interactive portfolios to game servers and utility tools, this organization serves as the main hub for all public and collaborative repositories.
+
+## 📂 Featured Projects
+
+Here are some of the key projects hosted within this organization:
+
+* **🌐 [kaboom.github.io](https://github.com/BenKormos/benkormos.github.io)** – A sleek, modern, and mobile-responsive personal link-in-bio and portfolio showcase built using HTML5 and CSS3.
+* **🎮 Voltix Server Ecosystem** – Repositories dedicated to our custom Minecraft server infrastructure, including website components and public landing pages like `voltix-website-2.0`.
+* **🛠️ Experimental Software & Utilities** – Various security concepts and entertainment tools built for educational and research purposes (e.g., `MalwareDatabase`).
+
+## 🛠️ Tech Stack & Skills
+
+Our projects leverage a wide variety of modern technologies:
+
+* **Frontend:** HTML5, CSS3, JavaScript (Vanilla)
+* **Icons & Styling:** FontAwesome, Modern CSS Flexbox & Grid layouts
+* **Hosting & Deployment:** GitHub Pages, Custom Web Servers
+* **Tools & Platforms:** Git, GitHub Actions, Discord API Integration
+
+## 🤝 Contributing
+
+We welcome contributions, bug reports, and feature requests! If you want to contribute to any of our projects:
+
+1. Fork the respective repository.
+2. Create a new feature branch (`git checkout -b feature/AmazingFeature`).
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`).
+4. Push to the branch (`git push origin feature/AmazingFeature`).
+5. Open a Pull Request.
+
+## 📬 Contact & Links
+
+Stay connected and follow our latest updates across platforms:
+
+* **GitHub:** [benbroc](https://github.com/benbroc)
+* **YouTube:** [benkormos](https://youtube.com/@benkormos)
+* **Twitch:** [benkormos](https://twitch.tv/benkormos)
+* **Discord:** Join our official community server via the link on our main page.
+
+---
+© 2018 ~ 2026 BenKormos Development. Built with ❤️ and driven by open source.
