@@ -4,7 +4,7 @@ Welcome to the official GitHub Organization for **BenKormos**. This space is ded
 
 ## 🚀 About Me
 
-We are focused on building clean, lightweight, and modern digital experiences. From personal landing pages and interactive portfolios to game servers and utility tools, this organization serves as the main hub for all public and collaborative repositories.
+Im are focused on building clean, lightweight, and modern digital experiences. From personal landing pages and interactive portfolios to game servers and utility tools, this organization serves as the main hub for all public and collaborative repositories.
 
 ## 📂 Featured Projects
 
