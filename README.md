@@ -10,7 +10,7 @@ We are focused on building clean, lightweight, and modern digital experiences. F
 
 Here are some of the key projects hosted within this organization:
 
-* **🌐 [kaboom.github.io](https://github.com/BenKormos/benkormos.github.io)** – A sleek, modern, and mobile-responsive personal link-in-bio and portfolio showcase built using HTML5 and CSS3.
+* **🌐 [benkormos.github.io](https://github.com/BenKormos/benkormos.github.io)** – A sleek, modern, and mobile-responsive personal link-in-bio and portfolio showcase built using HTML5 and CSS3.
 * **🎮 Voltix Server Ecosystem** – Repositories dedicated to our custom Minecraft server infrastructure, including website components and public landing pages like `voltix-website-2.0`.
 * **🛠️ Experimental Software & Utilities** – Various security concepts and entertainment tools built for educational and research purposes (e.g., `MalwareDatabase`).
 
@@ -22,16 +22,6 @@ Our projects leverage a wide variety of modern technologies:
 * **Icons & Styling:** FontAwesome, Modern CSS Flexbox & Grid layouts
 * **Hosting & Deployment:** GitHub Pages, Custom Web Servers
 * **Tools & Platforms:** Git, GitHub Actions, Discord API Integration
-
-## 🤝 Contributing
-
-We welcome contributions, bug reports, and feature requests! If you want to contribute to any of our projects:
-
-1. Fork the respective repository.
-2. Create a new feature branch (`git checkout -b feature/AmazingFeature`).
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`).
-4. Push to the branch (`git push origin feature/AmazingFeature`).
-5. Open a Pull Request.
 
 ## 📬 Contact & Links
 
