@@ -10,9 +10,8 @@ We are focused on building clean, lightweight, and modern digital experiences. F
 
 Here are some of the key projects hosted within this organization:
 
-* **🌐 [benkormos.github.io](https://github.com/BenKormos/benkormos.github.io)** – A sleek, modern, and mobile-responsive personal link-in-bio and portfolio showcase built using HTML5 and CSS3.
-* **🎮 Voltix Server Ecosystem** [Website Template](https://github.com/BenKormos/voltix-website)– Repositories dedicated to our custom Minecraft server infrastructure, including website components and public landing pages like `voltix-website-2.0`.
-* **🛠️ Experimental Software & Utilities** – Various security concepts and entertainment tools built for educational and research purposes (e.g., `MalwareDatabase`).
+* **🌐 [synergystation.github.io](https://github.com/synergystation/synergystation.github.io)** – A sleek, modern, and mobile-responsive personal link-in-bio and portfolio showcase built using HTML5 and CSS3.
+* **🎮 Voltix Server Ecosystem** [Website Template](https://github.com/synergystation/voltix-website)– Repositories dedicated to our custom Minecraft server infrastructure, including website components and public landing pages like `voltix-website-2.0`.
 
 ## 🛠️ Tech Stack & Skills
 
