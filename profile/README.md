@@ -21,8 +21,6 @@ Our portfolio covers core landing pages, game integration platforms, and interac
 ### 🎮 Gaming & Infrastructure
 *   **[Voltix Server Ecosystem](https://github.com/synergystation/voltix-website)**
     *   *The Game Hub.* Repositories tailored for custom server environments, featuring layout engines, data parsers, and public landing pages like the legacy and ongoing `voltix-website-2.0` projects.
-*   **Malware Database & Experiments**
-    *   *Security Research.* Isolated, educational proof-of-concepts such as the *Steam Trash Installer* — designed strictly for training, analysis, and amusement.
 
 ---
 
