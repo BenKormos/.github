@@ -15,7 +15,7 @@ At **NETZNETZproductions**, we believe in building lightweight, responsive, and 
 Our portfolio covers core landing pages, game integration platforms, and interactive interfaces:
 
 ### 🌐 Core Web Interfaces
-*   **[website](https://github.com/NETZNETZproductions/synergystation.github.io)**
+*   **[website](https://github.com/NETZNETZproductions/website)**
     *   *The Main Gateway.* A sleek, highly optimized, and mobile-responsive link-in-bio hub and portfolio showcase. Built natively utilizing modern CSS features to deliver smooth UX and premium responsiveness.
 
 ### 🎮 Gaming & Infrastructure
